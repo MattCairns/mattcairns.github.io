@@ -1,0 +1,11 @@
+@media (orientation: landscape) {
+	body {
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+}
+
+code {
+	background-color: #e8e8e8;
+	padding: 2px 4px 2px 4px;
+}
